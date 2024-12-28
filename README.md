@@ -1,5 +1,6 @@
 # SKT-FLY-AI
-할 수 있습니까, 휴먼?
+<b>할 수 있습니까, 휴먼?<b/>
+
+<img width="770" alt="AI" src="https://github.com/user-attachments/assets/fa4bd0ae-d817-4a1c-8f31-87593f5f34f2" />
 
 
-<img width="788" alt="AI-png" src="https://github.com/user-attachments/assets/fe0d5fcf-c5df-400d-b207-11dacde5ec08" />
